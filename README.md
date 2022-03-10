@@ -17,12 +17,12 @@ Current Micro OLED Display models: https://www.sony-semicon.co.jp/e/products/mic
 
 ## Usefull chips
 
-| Vendor  |  Mmodel | Description |
-| ------------- | ------------- | ------------- |
-| TI | SN65DSI84 | MIPI® DSI Bridge To FLATLINK™ LVDS Single Channel DSI to Dual-Link LVDS Bridge |
-| Toshiba | TC358870XBG | HDMI® 1.4b to MIPI® DSI℠ 1.1 / HDMI® Video format: Up to 4K Ultra HD (3840x2160, 30 fps, 24 bpp) |
-| Lontium | LT6911C | HDMI 1.4 to 2 port MIPI DSI/CSI	|
-| Realtek | RTD2660H/RTD2662 | Flat Panel Display Controller: HDMI to LVDS |
+| Vendor  |  Mmodel | Description | Link to Datasheet | 
+| ------------- | ------------- | ------------- | ------------- |
+| TI | SN65DSI84 | MIPI® DSI Bridge To FLATLINK™ LVDS Single Channel DSI to Dual-Link LVDS Bridge | |
+| Toshiba | TC358870XBG | HDMI® 1.4b to MIPI® DSI℠ 1.1 / HDMI® Video format: Up to 4K Ultra HD (3840x2160, 30 fps, 24 bpp) | |
+| Lontium | LT6911C | HDMI 1.4 to 2 port MIPI DSI/CSI	| |
+| Realtek | RTD2660H/RTD2662 | Flat Panel Display Controller: HDMI to LVDS | http://monitor.espec.ws/files/rtd2662_spec_brief_0702_171.pdf |
 
 
 ## Others
